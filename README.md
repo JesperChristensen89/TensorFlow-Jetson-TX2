@@ -17,7 +17,9 @@ TensorFlow 1.4 is build on Jetson TX2 with the environment:
 * L4T 28.1 (JetPack 3.1)
 * CUDA 8.0
 * cuDNN 6.0.21
+
 TensorFlow:
+
 * Version 1.4
 * Build with CUDA support
 
