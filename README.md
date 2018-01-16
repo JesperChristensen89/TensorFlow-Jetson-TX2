@@ -9,7 +9,8 @@ Install using the following commands:
 $ git clone https://github.com/JesperChristensen89/TensorFlow-1.4_Jetson-TX2.git
 $ cd TensorFlow-1.4_Jetson-TX2
 $ sudo apt-get install -y python-pip python-dev
-$ sudo pip install file```
+$ sudo pip install file
+```
 
 # Build information
 TensorFlow 1.4 is build on Jetson TX2 with the environment:
@@ -20,4 +21,4 @@ TensorFlow:
 * Version 1.4
 * Build with CUDA support
 
-Build from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and TensorFlow docs.
+Build from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and https://www.tensorflow.org/install/install_sources.
