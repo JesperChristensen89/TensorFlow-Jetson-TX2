@@ -1,6 +1,6 @@
 # TensorFlow-Jetson-TX2
 Pre-build wheel files for installing TensorFlow on Jetson TX2.
-Currently build version include TensorFlow 1.3, 1.4 and 1.5.
+Currently build version include TensorFlow 1.3 and 1.5.
 
 # Installation
 For now TensorFlow is only build for Jetson TX2 with Python 2.7.
@@ -21,7 +21,7 @@ TensorFlow is build on Jetson TX2 with the environment:
 
 TensorFlow:
 
-* Version 1.3, 1.4, 1.5
+* Version 1.3, 1.5
 * Build with CUDA support
 
 Build from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and https://www.tensorflow.org/install/install_sources.
