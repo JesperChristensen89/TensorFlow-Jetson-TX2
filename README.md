@@ -19,6 +19,11 @@ TensorFlow is build on Jetson TX2 with the environment:
 * CUDA 8.0
 * cuDNN 6.0.21
 
+And furthermore tested with:
+* L4T 28.1 (JetPack 3.2)
+* CUDA 9.0
+* cuDNN 7.0.5 RC
+
 TensorFlow:
 
 * Version 1.3, 1.5
