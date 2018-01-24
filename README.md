@@ -1,9 +1,9 @@
 # TensorFlow-Jetson-TX2
-Pre-build wheel files for installing TensorFlow on Jetson TX2.
-Currently build version include TensorFlow 1.3 and 1.5.
+Pre-built wheel files for installing TensorFlow on Jetson TX2.
+Currently built version include TensorFlow 1.3 and 1.5.
 
 # Installation
-For now TensorFlow is only build for Jetson TX2 with Python 2.7.
+For now TensorFlow is only built for Jetson TX2 with Python 2.7.
 
 Install using the following commands:
 ```
@@ -14,7 +14,7 @@ $ sudo pip install file
 ```
 
 # Build information
-TensorFlow is build on Jetson TX2 with the environment:
+TensorFlow is built on Jetson TX2 with the environment:
 * L4T 28.1 (JetPack 3.1)
 * CUDA 8.0
 * cuDNN 6.0.21
@@ -27,6 +27,6 @@ And furthermore tested with:
 TensorFlow:
 
 * Version 1.3, 1.5
-* Build with CUDA support
+* Built with CUDA support
 
-Build from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and https://www.tensorflow.org/install/install_sources.
+Built from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and https://www.tensorflow.org/install/install_sources.
