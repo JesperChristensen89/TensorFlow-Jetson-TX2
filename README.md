@@ -14,19 +14,14 @@ $ sudo pip install file
 ```
 
 # Build information
-TensorFlow is built on Jetson TX2 with the environment:
+TensorFlow 1.3 is built on Jetson TX2 with the environment:
 * L4T 28.1 (JetPack 3.1)
 * CUDA 8.0
 * cuDNN 6.0.21
 
-And furthermore tested with:
+TensorFlow 1.5 is built on Jetson TX2 with the environment:
 * L4T 28.1 (JetPack 3.2)
 * CUDA 9.0
 * cuDNN 7.0.5 RC
-
-TensorFlow:
-
-* Version 1.3, 1.5
-* Built with CUDA support
 
 Built from source by modifying the guide from https://github.com/jetsonhacks/installTensorFlowTX2 and https://www.tensorflow.org/install/install_sources.
